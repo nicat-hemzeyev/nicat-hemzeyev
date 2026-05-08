@@ -14,7 +14,3 @@ Aspiring Java Backend Developer | Spring Boot | PostgreSQL
 - **Databases:** PostgreSQL
 - **Tools:** Git, GitHub, Docker, Ubuntu, Liquibase
 
-## GitHub Stats
-![Nijat's GitHub stats](https://github-readme-stats-git-master-nikat.vercel.app/api?username=nicat-hemzeyev&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats-git-master-rstaa-rstaa.vercel.app/api/top-langs/?username=nicat-hemzeyev&layout=compact&theme=tokyonight)
