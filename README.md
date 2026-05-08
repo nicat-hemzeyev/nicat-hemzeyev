@@ -2,15 +2,8 @@
 Aspiring Java Backend Developer | Spring Boot | PostgreSQL
 
 ## Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nijat-hamzayev-ba2871320/)
-[Email](mailto:hemzeyevnicat25@gmail.com)
-[![Email](https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail)](mailto:hemzeyevnicat25@gmail.com)
-[![Email Me](https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hemzeyevnicat25@gmail.com?subject=Hello%20Nijat&body=Hi%20Nijat,)
-
-## Contact
 📧 hemzeyevnicat25@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/nijat-hamzayev-ba2871320/)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nijat-hamzayev-ba2871320/)
 
 ## About Me
 - 🎓 Bachelor's degree in Computer Science
@@ -33,8 +26,7 @@ Aspiring Java Backend Developer | Spring Boot | PostgreSQL
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
-![Profile views](https://komarev.com/ghpvc/?username=nicat-hemzeyev&color=blue)
-
+![Profile views](https://komarev.com/ghpvc/?username=nicat-hemzeyev&color=yellow)
 
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
