@@ -2,21 +2,16 @@
 Aspiring Java Backend Developer | Spring Boot | PostgreSQL
 
 ## Contact
-📧 hemzeyevnicat25@gmail.com  
+📧 hemzeyevnicat25@gmail.com
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nijat-hamzayev-ba2871320/)
 
 ## About Me
 - 🎓 Bachelor's degree in Computer Science
 - 💻 Building modular Java backend projects with Spring Boot & PostgreSQL
 - 🚀 Actively participating in CodeAlpha Remote Backend Development Program
-- 🌱 Currently improving my English communication skills
-- ♟️ Passionate about chess, technology, and open-source projects
-
-## Skills & Tools
-- **Languages:** Java SE, SQL
-- **Frameworks:** Spring Boot
-- **Databases:** PostgreSQL
-- **Tools:** Git, GitHub, Docker, Ubuntu, Liquibase
+- 🏗️  Interested in backend architecture and clean code practices
+- ♟️  Passionate about chess, technology, and open-source projects
 
 ## Languages & Tools
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
