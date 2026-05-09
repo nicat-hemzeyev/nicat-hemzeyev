@@ -11,7 +11,6 @@ Aspiring Java Backend Developer | Spring Boot | PostgreSQL
 - 💻 Building modular Java backend projects with Spring Boot & PostgreSQL
 - 🚀 Actively participating in CodeAlpha Remote Backend Development Program
 - 🏗️  Interested in backend architecture and clean code practices
-- ♟️  Passionate about chess, technology, and open-source projects
 
 ## Languages & Tools
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
